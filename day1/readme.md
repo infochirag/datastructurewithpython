@@ -1,4 +1,4 @@
-# The FIzz BUzz Challenge :
+# The Fizz Buzz Challenge :
 
 **Code is present in above python file**
 
